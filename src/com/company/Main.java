@@ -19,7 +19,7 @@ public class Main {
         useMyInterface(addFiveToMe, 10); // Output: 15
 
 
-        // Uppgift 7. Ge exempel på ett reguljärt uttryck och beskriv vad ditt uttryck matchar på.
+        // Uppgift 6. Ge exempel på ett reguljärt uttryck och beskriv vad ditt uttryck matchar på.
 
         String text = "C# C++ Java 35237 Haris HTML";
 
