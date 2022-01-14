@@ -1,5 +1,5 @@
 3. Beskriv kortfattat och översiktligt varför programmerare använder designmönster (patterns)? 
-
+---
 Designmönster är programmeringsspråksoberoende strategier för att lösa de vanliga objektorienterade designproblemen
 som kan uppstå. Det betyder att ett designmönster representerar en idé, inte en viss implementering.
 

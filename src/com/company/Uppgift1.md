@@ -1,5 +1,5 @@
 1.	Beskriv vad Stream är för något och vad kan det vara bra för.
-
+---
 Stream APIn som introduceras i Java 8 används för att bearbeta samlingar av objekt.
 En stream är en sekvens av objekt som stöder olika metoder som kan ”pipelineas” för att ge önskat resultat.
 Vi kan korta ner koden, öka läsbarhetern och undvika buggar p.g.a. misstag i detaljerna.
