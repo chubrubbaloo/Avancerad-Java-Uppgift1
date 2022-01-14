@@ -29,13 +29,13 @@ public class Main {
 
     }
 
-    public static void regexChecker(String theRegex, String str2Check) {
+    public static void regexChecker(String theRegex, String strToCheck) {
 
         // Du definierar ditt reguljära uttryck genom att använda ett mönster
         Pattern checkRegex = Pattern.compile(theRegex);
 
         // Skapar ett matcher objekt som söker strängen för någonting som matchar det reguljära uttrycket.
-        Matcher regexMatcher = checkRegex.matcher(str2Check);
+        Matcher regexMatcher = checkRegex.matcher(strToCheck);
 
         // Går igenom de positiva matchningarna och printar ut dem.
         while (regexMatcher.find()) {
